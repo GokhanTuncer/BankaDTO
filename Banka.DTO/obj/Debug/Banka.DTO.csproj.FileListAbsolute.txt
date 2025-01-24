@@ -1,0 +1,18 @@
+C:\Users\iakademi\Desktop\Banka.DTO\Banka.DTO\bin\Debug\Banka.DTO.dll.config
+C:\Users\iakademi\Desktop\Banka.DTO\Banka.DTO\bin\Debug\Banka.DTO.dll
+C:\Users\iakademi\Desktop\Banka.DTO\Banka.DTO\bin\Debug\Banka.DTO.pdb
+C:\Users\iakademi\Desktop\Banka.DTO\Banka.DTO\obj\Debug\Banka.DTO.csproj.AssemblyReference.cache
+C:\Users\iakademi\Desktop\Banka.DTO\Banka.DTO\obj\Debug\Banka.DTO.Properties.Resources.resources
+C:\Users\iakademi\Desktop\Banka.DTO\Banka.DTO\obj\Debug\Banka.DTO.csproj.GenerateResource.cache
+C:\Users\iakademi\Desktop\Banka.DTO\Banka.DTO\obj\Debug\Banka.DTO.csproj.CoreCompileInputs.cache
+C:\Users\iakademi\Desktop\Banka.DTO\Banka.DTO\obj\Debug\Banka.DTO.dll
+C:\Users\iakademi\Desktop\Banka.DTO\Banka.DTO\obj\Debug\Banka.DTO.pdb
+D:\Yazılım kursu\Banka.DTO\Banka.DTO\bin\Debug\Banka.DTO.dll.config
+D:\Yazılım kursu\Banka.DTO\Banka.DTO\bin\Debug\Banka.DTO.dll
+D:\Yazılım kursu\Banka.DTO\Banka.DTO\bin\Debug\Banka.DTO.pdb
+D:\Yazılım kursu\Banka.DTO\Banka.DTO\obj\Debug\Banka.DTO.csproj.AssemblyReference.cache
+D:\Yazılım kursu\Banka.DTO\Banka.DTO\obj\Debug\Banka.DTO.Properties.Resources.resources
+D:\Yazılım kursu\Banka.DTO\Banka.DTO\obj\Debug\Banka.DTO.csproj.GenerateResource.cache
+D:\Yazılım kursu\Banka.DTO\Banka.DTO\obj\Debug\Banka.DTO.csproj.CoreCompileInputs.cache
+D:\Yazılım kursu\Banka.DTO\Banka.DTO\obj\Debug\Banka.DTO.dll
+D:\Yazılım kursu\Banka.DTO\Banka.DTO\obj\Debug\Banka.DTO.pdb

@@ -1,0 +1,46 @@
+C:\Users\iakademi\Desktop\Banka.DTO\Banka.UI\bin\Debug\Banka.UI.exe.config
+C:\Users\iakademi\Desktop\Banka.DTO\Banka.UI\bin\Debug\Banka.UI.exe
+C:\Users\iakademi\Desktop\Banka.DTO\Banka.UI\bin\Debug\Banka.UI.pdb
+C:\Users\iakademi\Desktop\Banka.DTO\Banka.UI\bin\Debug\Banka.DTO.dll
+C:\Users\iakademi\Desktop\Banka.DTO\Banka.UI\bin\Debug\Banka.DTO.pdb
+C:\Users\iakademi\Desktop\Banka.DTO\Banka.UI\bin\Debug\Banka.DTO.dll.config
+C:\Users\iakademi\Desktop\Banka.DTO\Banka.UI\obj\Debug\Banka.UI.csproj.AssemblyReference.cache
+C:\Users\iakademi\Desktop\Banka.DTO\Banka.UI\obj\Debug\Banka.UI.csproj.SuggestedBindingRedirects.cache
+C:\Users\iakademi\Desktop\Banka.DTO\Banka.UI\obj\Debug\Banka.UI.Form1.resources
+C:\Users\iakademi\Desktop\Banka.DTO\Banka.UI\obj\Debug\Banka.UI.Properties.Resources.resources
+C:\Users\iakademi\Desktop\Banka.DTO\Banka.UI\obj\Debug\Banka.UI.csproj.GenerateResource.cache
+C:\Users\iakademi\Desktop\Banka.DTO\Banka.UI\obj\Debug\Banka.UI.csproj.CoreCompileInputs.cache
+C:\Users\iakademi\Desktop\Banka.DTO\Banka.UI\obj\Debug\Banka.UI.csproj.CopyComplete
+C:\Users\iakademi\Desktop\Banka.DTO\Banka.UI\obj\Debug\Banka.UI.exe
+C:\Users\iakademi\Desktop\Banka.DTO\Banka.UI\obj\Debug\Banka.UI.pdb
+C:\Users\gokha\Desktop\Yazılım kursu\Banka.DTO\Banka.UI\bin\Debug\Banka.UI.exe.config
+C:\Users\gokha\Desktop\Yazılım kursu\Banka.DTO\Banka.UI\bin\Debug\Banka.UI.exe
+C:\Users\gokha\Desktop\Yazılım kursu\Banka.DTO\Banka.UI\bin\Debug\Banka.UI.pdb
+C:\Users\gokha\Desktop\Yazılım kursu\Banka.DTO\Banka.UI\bin\Debug\Banka.DTO.dll
+C:\Users\gokha\Desktop\Yazılım kursu\Banka.DTO\Banka.UI\bin\Debug\Banka.DTO.pdb
+C:\Users\gokha\Desktop\Yazılım kursu\Banka.DTO\Banka.UI\bin\Debug\Banka.DTO.dll.config
+C:\Users\gokha\Desktop\Yazılım kursu\Banka.DTO\Banka.UI\obj\Debug\Banka.UI.csproj.AssemblyReference.cache
+C:\Users\gokha\Desktop\Yazılım kursu\Banka.DTO\Banka.UI\obj\Debug\Banka.UI.csproj.SuggestedBindingRedirects.cache
+C:\Users\gokha\Desktop\Yazılım kursu\Banka.DTO\Banka.UI\obj\Debug\Banka.UI.Form1.resources
+C:\Users\gokha\Desktop\Yazılım kursu\Banka.DTO\Banka.UI\obj\Debug\Banka.UI.Properties.Resources.resources
+C:\Users\gokha\Desktop\Yazılım kursu\Banka.DTO\Banka.UI\obj\Debug\Banka.UI.csproj.GenerateResource.cache
+C:\Users\gokha\Desktop\Yazılım kursu\Banka.DTO\Banka.UI\obj\Debug\Banka.UI.csproj.CoreCompileInputs.cache
+C:\Users\gokha\Desktop\Yazılım kursu\Banka.DTO\Banka.UI\obj\Debug\Banka.UI.csproj.CopyComplete
+C:\Users\gokha\Desktop\Yazılım kursu\Banka.DTO\Banka.UI\obj\Debug\Banka.UI.exe
+C:\Users\gokha\Desktop\Yazılım kursu\Banka.DTO\Banka.UI\obj\Debug\Banka.UI.pdb
+C:\Users\gokha\Desktop\Yazılım kursu\Banka.DTO\Banka.UI\obj\Debug\Banka.UI.frmBakiyeislemleri.resources
+D:\Yazılım kursu\Banka.DTO\Banka.UI\bin\Debug\Banka.UI.exe.config
+D:\Yazılım kursu\Banka.DTO\Banka.UI\bin\Debug\Banka.UI.exe
+D:\Yazılım kursu\Banka.DTO\Banka.UI\bin\Debug\Banka.UI.pdb
+D:\Yazılım kursu\Banka.DTO\Banka.UI\bin\Debug\Banka.DTO.dll
+D:\Yazılım kursu\Banka.DTO\Banka.UI\bin\Debug\Banka.DTO.pdb
+D:\Yazılım kursu\Banka.DTO\Banka.UI\bin\Debug\Banka.DTO.dll.config
+D:\Yazılım kursu\Banka.DTO\Banka.UI\obj\Debug\Banka.UI.csproj.AssemblyReference.cache
+D:\Yazılım kursu\Banka.DTO\Banka.UI\obj\Debug\Banka.UI.Form1.resources
+D:\Yazılım kursu\Banka.DTO\Banka.UI\obj\Debug\Banka.UI.frmBakiyeislemleri.resources
+D:\Yazılım kursu\Banka.DTO\Banka.UI\obj\Debug\Banka.UI.Properties.Resources.resources
+D:\Yazılım kursu\Banka.DTO\Banka.UI\obj\Debug\Banka.UI.csproj.GenerateResource.cache
+D:\Yazılım kursu\Banka.DTO\Banka.UI\obj\Debug\Banka.UI.csproj.CoreCompileInputs.cache
+D:\Yazılım kursu\Banka.DTO\Banka.UI\obj\Debug\Banka.UI.csproj.Up2Date
+D:\Yazılım kursu\Banka.DTO\Banka.UI\obj\Debug\Banka.UI.exe
+D:\Yazılım kursu\Banka.DTO\Banka.UI\obj\Debug\Banka.UI.pdb
